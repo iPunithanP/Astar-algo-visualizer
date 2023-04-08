@@ -1,0 +1,9 @@
+This is a A* Search Algorithm
+
+Orange Point - Indicates Start
+Cyan Point - Indicates End
+Black lines - hurdles / obstacles
+Purple line - Shortest distance between start and end
+
+Applications:
+Used in google maps.
